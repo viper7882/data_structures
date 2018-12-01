@@ -4,6 +4,7 @@
 #include <cstdio>
 #include <cstring>
 #include <cstdlib>
+#include <string>
 
 #define MIN_CAPACITY 10
 #define GROWTH_FACTOR 2
